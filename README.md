@@ -38,7 +38,7 @@ Data Visualization & Dashboard Creation
 2) Sales trends over time. 
 3) Identification of growth patterns and seasonality.
 4) Clear comparison of performance across different time periods.
-5) 
+   
 🛠️ Tools & Technologies Used
 
 1) Power BI
